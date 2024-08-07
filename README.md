@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Sauravitweb
+- 👋 Hi, I’m Saurav Khanal 
 - 👀 I’m interested in ... Cybersecurity, graphics designning, web development and app development 
 - 🌱 I’m currently learning ... B.Sc.CSIT
 - 💞️ I’m looking to collaborate on ... hacking, designing and development task 
 - 📫 How to reach me ... -> FB, PERSONAL_PORTFOLIO, LinedIN 
 - 😄 Pronouns: ... Saurav
-- ⚡ Fun fact: ... movement without momentum 
+- ⚡ Fun fact: ... finding 
 
 <!---
 Sauravitweb/Sauravitweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
